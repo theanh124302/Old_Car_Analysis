@@ -1,0 +1,17 @@
+[
+    {
+        "car_name": " LandRover Range Rover HSE 3.0",
+        "year": 2015.0,
+        "price": 2700000000.0,
+        "assemble_place": 1,
+        "series": "SUV",
+        "driven kms": 65000.0,
+        "num_of_door": 5.0,
+        "num_of_seat": 5.0,
+        "engine_type": "Xăng",
+        "transmission": "Số tự động",
+        "url": "https://bonbanh.com/xe-landrover-range_rover-hse-3.0-2015-4778618",
+        "brand": "LandRover",
+        "brand_segment": "LUXURY"
+    }
+]
